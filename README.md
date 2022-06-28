@@ -8,3 +8,4 @@ leetcode前端题目笔记
 - [13. 罗马数字转整数](https://github.com/erasermeng/leetcode/issues/5)
 - [剑指 Offer 09. 用两个栈实现队列](https://github.com/erasermeng/leetcode/issues/6)
 - [704. 二分查找](https://github.com/erasermeng/leetcode/issues/7)
+- [217. 存在重复元素](https://github.com/erasermeng/leetcode/issues/8)
