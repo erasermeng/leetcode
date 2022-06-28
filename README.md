@@ -6,3 +6,4 @@ leetcode前端题目笔记
 - [3. 无重复字符的最长子串](https://github.com/erasermeng/leetcode/issues/3)
 - [5. 最长回文子串](https://github.com/erasermeng/leetcode/issues/4)
 - [13. 罗马数字转整数](https://github.com/erasermeng/leetcode/issues/5)
+- [剑指 Offer 09. 用两个栈实现队列](https://github.com/erasermeng/leetcode/issues/6)
