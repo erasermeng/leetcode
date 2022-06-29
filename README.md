@@ -9,3 +9,5 @@ leetcode前端题目笔记
 - [剑指 Offer 09. 用两个栈实现队列](https://github.com/erasermeng/leetcode/issues/6)
 - [704. 二分查找](https://github.com/erasermeng/leetcode/issues/7)
 - [217. 存在重复元素](https://github.com/erasermeng/leetcode/issues/8)
+- [15. 三数之和](https://github.com/erasermeng/leetcode/issues/9)
+- [70. 爬楼梯](https://github.com/erasermeng/leetcode/issues/10)
